@@ -1,0 +1,54 @@
+
+body{
+    text-align: center;
+    background-color: rgb(230, 255, 255);
+}
+img{
+    width: 1000px;
+    border-radius: 2cqmin;
+    border-style: double;
+}
+.myNavbar{
+    position: sticky;
+    top: 0;
+    z-index: 9;
+}
+.logo{
+    border-radius: 100%;
+}
+.links{
+
+    font-size: 23px;
+    display: inline;
+    padding-left: 15px;
+    padding-right: 25px;
+}
+.contatos_1 h2{
+    display: inline;
+    padding-bottom: 10px;
+}
+li{
+    font-family: cursive;
+    font-style: italic;
+}
+h1{
+    background-color: rgb(169, 241, 241);
+}
+iframe{
+    border-radius: 2cqmin;
+}
+#inicio{
+    background-color: rgb(230, 255, 255);
+}
+#Sobre{
+    background-color: rgb(230, 255, 255);
+}
+#Informação{
+    background-color: rgb(230, 255, 255);
+}
+#videos{
+    background-color: rgb(230, 255, 255);
+}
+#microsoft{
+    background-color: rgb(230, 255, 255);
+}
